@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.wpf", "Zoo.wpf\Zoo.wpf.csproj", "{F309B81F-E516-4599-8BE7-04FC9868EE18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Lib", "Zoo.Lib\Zoo.Lib.csproj", "{CDAD3431-7E8D-4A81-AEA2-27B7038C75A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Cons", "Zoo.Cons\Zoo.Cons.csproj", "{F0C46AE5-9CED-449D-BE82-29D1DDCF5884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F309B81F-E516-4599-8BE7-04FC9868EE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F309B81F-E516-4599-8BE7-04FC9868EE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F309B81F-E516-4599-8BE7-04FC9868EE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAD3431-7E8D-4A81-AEA2-27B7038C75A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAD3431-7E8D-4A81-AEA2-27B7038C75A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAD3431-7E8D-4A81-AEA2-27B7038C75A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAD3431-7E8D-4A81-AEA2-27B7038C75A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C46AE5-9CED-449D-BE82-29D1DDCF5884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C46AE5-9CED-449D-BE82-29D1DDCF5884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C46AE5-9CED-449D-BE82-29D1DDCF5884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C46AE5-9CED-449D-BE82-29D1DDCF5884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
