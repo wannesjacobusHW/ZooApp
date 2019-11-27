@@ -14,6 +14,7 @@ namespace Zoo.Lib
         public Zoo(decimal entranceFee)
         {
             EntranceFee = entranceFee;
+            LionCage = new LionCage();
         }
     }
 }
